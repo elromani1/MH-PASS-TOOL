@@ -49,6 +49,6 @@ You must have **explicit permission** before testing any target.
 ```bash
 sudo apt update
 sudo apt install python3 git -y
-git clone https://github.com/elromani1/MH-PASS-TRACK-TOOL.git
-cd MH-PASS-TRACK-TOOL
-python3 MH_PASS_TOOL.py
+git clone https://github.com/elromani1/MH-PASS-TOOL.git
+cd MH PASS TOOL
+python3 MH PASS TOOL.py
